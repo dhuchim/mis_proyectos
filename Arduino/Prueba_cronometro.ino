@@ -1,5 +1,5 @@
 //Prueba_cronometro.ino
-
+//Muestra el decremento en el monitor serial.
 unsigned long actual;
 int h=0;
 int m=15;
